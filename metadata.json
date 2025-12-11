@@ -1,0 +1,5 @@
+{
+  "name": "Job Application Assistant",
+  "description": "An AI-powered assistant for electricians to generate custom cover letters for job applications in Germany.",
+  "requestFramePermissions": []
+}
