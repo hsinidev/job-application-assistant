@@ -9,7 +9,7 @@ An intelligent, AI-powered web application designed to help job seekers—specif
 
 ## 🚀 Live Demo
 
-[**doodax.com**](https://doodax.com)  
+[**doodax.com**](https://doodax.com/tools/job-application-assistant/index.html)  
 *(Opens in a new tab)*
 
 ## 🔒 Security & API Key
